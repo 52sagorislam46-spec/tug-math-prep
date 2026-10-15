@@ -1,14 +1,20 @@
-# Welcome to your Lovable project
+# Tug Math Prep
+
+https://github.com/52sagorislam46-spec/math-wrangle-play.git
+
+এটা আমার তৈরি করা অ্যাপ এখানে কিছু কাজ করা বাকি আছে সেটা করতে গিয়ে আবার পিছনের কোনোকিছু কেটে ফেলো না শুধু যেইটা এড করতে বলবো শুধু সেইটা এড করে দাও এর থেকে বেশি কিছু না আগে আমার তৈরি করা অ্যাপ এখানে আনো তারপর আমি বলে দিবো তোমাকে কি করা লাগবে।
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://tug-math-prep.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/03a0a92e-3c8a-4228-b9dd-185fe8864f91).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +26,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
